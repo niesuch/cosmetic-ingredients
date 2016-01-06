@@ -1,0 +1,63 @@
+[
+    {
+        "outputFile": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 584,
+                        "endColumn": 47,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 47,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 45,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endLine": 16,
+                    "endColumn": 10,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

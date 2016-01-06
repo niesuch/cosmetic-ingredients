@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_details.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_screen.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\main_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_new_ingredient.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\report_new_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_product.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\search_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_ingredient_by_name.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\search_ingredient_by_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_product_by_code.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\search_product_by_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_error_product.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\report_error_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_new_product.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\report_new_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ingredient_details.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\ingredient_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_error_ingredient.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\report_error_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_product_by_name.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\layout\\search_product_by_name.xml"
+    }
+]

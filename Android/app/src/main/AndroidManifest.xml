@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cosmetic"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" />
+
+    <application
+        android:configChanges="keyboardHidden|orientation"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+
+
+        <activity
+            android:name=".MainScreenActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".SearchIngredientByNameActivity"
+            android:label="Search ingredient by name" >
+        </activity>
+        
+        <activity
+            android:name=".SearchProductByCodeActivity"
+            android:label="Search product by code" >
+        </activity>
+        
+        <activity
+            android:name=".SearchProductByNameActivity"
+            android:label="Search product by name" >
+        </activity>
+        
+        <activity
+            android:name=".SearchProductActivity"
+            android:label="Search product" >
+        </activity>
+        
+        <activity
+            android:name=".ProductDetailsActivity"
+            android:label="Product details" >
+        </activity>
+        
+        <activity
+            android:name=".IngredientDetailsActivity"
+            android:label="Ingredient details" >
+        </activity>
+        
+        <activity
+            android:name=".ReportErrorIngredientActivity"
+            android:label="Report error of ingredient" >
+        </activity>
+        
+        <activity
+            android:name=".ReportErrorProductActivity"
+            android:label="Report error of product" >
+        </activity>
+        
+        <activity
+            android:name=".NewProductActivity"
+            android:label="New product" >
+        </activity>
+        
+        <activity
+            android:name=".NewIngredientActivity"
+            android:label="New ingredient" >
+        </activity>
+        
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+</manifest>

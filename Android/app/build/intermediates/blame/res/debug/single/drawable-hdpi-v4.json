@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_button.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\drawable-hdpi\\red_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_button.xml",
+        "source": "C:\\Users\\Kamil\\AndroidStudioProjects\\Android\\app\\src\\main\\res\\drawable-hdpi\\blue_button.xml"
+    }
+]

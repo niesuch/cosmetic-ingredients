@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@color/blue_background">
+	
+    <Button android:id="@+id/btnSearchProductByName"
+        android:layout_width="220dp"
+		android:layout_height="70dp"
+        android:background="@drawable/blue_button" 
+        android:text="Search product by name"
+        android:textSize="20sp"
+        style="@style/ButtonStyle"
+        android:layout_marginTop="20dip"/>
+    
+    <Button android:id="@+id/btnSearchProductByCode"
+        android:layout_width="220dp"
+		android:layout_height="80dp"
+        android:background="@drawable/blue_button" 
+        android:text="Search product by QR Code"
+        android:textSize="20sp"
+        style="@style/ButtonStyle"
+        android:layout_marginTop="15dip"/>
+
+</LinearLayout>
