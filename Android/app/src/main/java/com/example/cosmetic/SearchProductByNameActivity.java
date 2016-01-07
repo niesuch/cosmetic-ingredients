@@ -141,13 +141,11 @@ public class SearchProductByNameActivity extends ListActivity {
                         });
                     }
                 } else {
-                    phrase = args[0];
-
                     Intent in = new Intent(getApplicationContext(),
                             SearchProductByNameActivity.class);
                     in.putExtra("statement", "dialog");
                     in.putExtra("name", args[0]);
-                    in.putExtra("phrase", phrase);
+                    in.putExtra("phrase", args[0]);
                     startActivityForResult(in, 100);
                 }
             } catch (JSONException e) {

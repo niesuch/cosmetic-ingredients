@@ -20,12 +20,10 @@ import android.widget.TextView;
 public class IngredientDetailsActivity extends Activity {
 	TextView txtIngredientName;
 	TextView txtIngredientDesc;
-	TextView txtIngredients;
 	Button btnReportErrorIngredient;
 	String pid;
 	JSONParser jsonParser = new JSONParser();
 	private static final String url_php = "http://lickn.cba.pl/panel_administracyjny/android-connect/ingredient_details.php";
-	JSONArray ingredients = null;
 
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
