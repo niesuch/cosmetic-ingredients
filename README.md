@@ -13,12 +13,12 @@
 ## Description:
 
 ## Links:
-* [Documentation]()
-* [Installation file](https://www.dropbox.com/sh/quvgo8h536kwhne/AAB3fXEKf_1u18H9Zai5zDfQa?dl=0)
+* [Documentation](https://github.com/niesuch/cosmetic-ingredients/tree/master/docs/Documentation)
+* [Installation file](https://github.com/niesuch/cosmetic-ingredients/tree/master/docs/Application)
 
 ## Installation
 1. You must have Android OS :)
-2. Download installation file from [link](https://www.dropbox.com/s/qud3w67c8i5g7ha/cosmetic-ingredients.apk?dl=0) section.
+2. Download installation file from [link](https://github.com/niesuch/cosmetic-ingredients/tree/master/docs/Application) section.
 3. Send file on your device.
 4. Finally choose installation file and wait for install process to finish.
 5. Enjoy :)
