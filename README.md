@@ -4,13 +4,10 @@
 <b>In order to:</b> Final project regarding subject "Programming mobile application 2" <br />
 
 ## Table of Contents:
-1. [Description](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#description)
-2. [Links](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#links)
-3. [Installation](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#installation)
-4. [Changelogs](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#changelogs)
-5. [Copyright and license](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#copyright-and-license)
-
-## Description:
+1. [Links](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#links)
+2. [Installation](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#installation)
+3. [Changelogs](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#changelogs)
+4. [Copyright and license](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#copyright-and-license)
 
 ## Links:
 * [Documentation](https://github.com/niesuch/cosmetic-ingredients/tree/master/docs/Documentation)
