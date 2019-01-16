@@ -6,7 +6,7 @@
 ## Table of Contents:
 1. [Links](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#links)
 2. [Installation](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#installation)
-3. [Changelogs](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#changelogs)
+3. [Changelog](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#changelog)
 4. [Copyright and license](https://github.com/niesuch/cosmetic-ingredients/blob/master/README.md#copyright-and-license)
 
 ## Links:
@@ -20,8 +20,8 @@
 4. Finally choose installation file and wait for install process to finish.
 5. Enjoy :)
 
-## Changelogs:
-Click on this link to see changelogs: [CHANGELOG](https://github.com/niesuch/cosmetic-ingredients/releases)
+## Changelog:
+Click on the following link to see the changelog: [CHANGELOG](https://github.com/niesuch/cosmetic-ingredients/releases)
 
 ## Copyright and license:
 Copyright 2015 Niesuch, Inc. Code released under the [MIT license](https://github.com/niesuch/cosmetic-ingredients/blob/master/LICENSE.md).
